@@ -1,5 +1,5 @@
-API Documentation
-=================
+Contributing
+============
 
 Contents:
 
@@ -8,4 +8,4 @@ Contents:
     :titlesonly:
     :glob:
 
-    sources/*/Resources/API/index
+    *
